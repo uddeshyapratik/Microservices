@@ -1,4 +1,17 @@
-
+Microservice Resources Link
 # https://javarevisited.substack.com/p/top-10-microservices-design-patterns-8d8
+
 # https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e
 
+In this article, we are going to discuss 10 main design patterns which are mentioned below.
+
+1. Database per Microservice
+2. Event Sourcing
+3. CQRS
+4. Saga
+5. BFF
+6. API Gateway
+7. Strangler
+8. Circuit Breaker
+9. Externalized Configuration
+10. Consumer-Driven Contract Tracing
